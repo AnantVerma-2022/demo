@@ -1,0 +1,23 @@
+# Data handling
+pandas
+numpy
+
+# Preprocessing and models
+scikit-learn
+
+# Charts
+matplotlib
+seaborn
+
+# Notebook
+jupyter
+ipykernel
+
+# Model persistence
+joblib
+
+# Dataset download
+requests
+
+# Testing
+pytest
